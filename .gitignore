@@ -2,3 +2,6 @@
 data
 data_df2
 /L1/zamowienia_expanded.parquet
+#/L5/spark/apps/.ipynb_checkpoints/
+.ipynb_checkpoints
+/L5/spark/apps/myenv/
